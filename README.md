@@ -1,4 +1,2 @@
 # NaiveBayes
-Simple Naive Bayes didgit classifier.
-// Initial commit
-// Confirm
+Simple Naive Bayes digit classifier made in Spring 2019 at UIUC
